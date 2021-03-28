@@ -1,0 +1,7 @@
+The requirements to run the code in the Jupyter notebook are as follows.
+Python version == Python 3.7.10
+Numpy ==1.19.5
+Pandas == 1.1.5
+Gbemisola Banjoko-Jupyter notebook requirements
+
+
